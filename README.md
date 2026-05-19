@@ -20,7 +20,7 @@ This repository is divided to branches that correspond to the blog post sections
 * components-part2 - The code at the end of the Components-Phase 2 section.
 * websockets-part2 - The code at the end of the WebSockets-Phase 2 section.
 
-Report Entry: Root Cause Analysis of Webpack Compilation Failure
+## Report Entry: Root Cause Analysis of Webpack Compilation Failure
 Error Statement: Module not found: Error: Can't resolve './pkg' in '...\YewChat'
 
 C:\Users\LENOVO\ADPRO\tutorial10\YewChat\pkg\index.js doesn't exist
